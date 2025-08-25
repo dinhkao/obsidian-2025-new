@@ -1,0 +1,62 @@
+
+
+body{
+  --font-smallest: 0.8em;
+  --font-smaller: 0.9em;
+  --font-small: 1em;
+  --font-ui-smaller: 11px;
+  --font-ui-small: 12px;
+  --font-ui-medium: 14px;
+  --font-ui-large: 20px;
+  --line-height-normal:1.1;
+  --line-height-tight:1;
+  background-color: white; /* Set background color to white */
+}
+
+/* Remove all margins and padding */
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Make text align to the left border */
+.markdown-preview-view,
+.markdown-source-view {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-scroller > *:first-child {
+  margin-left: 0;
+}
+
+.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+  padding: 5px 0px 0px 5px;
+}
+
+
+
+.suggestion-item.is-selected {
+  background-color: hsla(var(--interactive-accent-hsl), 0.8);
+  border-radius: 6px;
+}
+
+.prompt {
+  border-radius: 0px;
+}
+
+
+
+
+.suggestion-highlight {
+  color: var(--text-accent);
+}
+
+.suggestion-item.is-selected .suggestion-highlight {
+  color: white !important;
+}
+
+input.prompt-input {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px !important;
+
+}
