@@ -46,8 +46,6 @@ body {
 }
 
 
-
-
 .suggestion-highlight {
   color: var(--text-accent);
 }
@@ -59,17 +57,4 @@ body {
 input.prompt-input {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px !important;
 
-}
-
-/* Tighter line-height for checklist items */
-.markdown-preview-view .task-list-item,
-.markdown-source-view .task-list-item {
-  line-height: 0.5 !important; /* adjust smaller if needed */
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.markdown-preview-view .task-list-item-checkbox,
-.markdown-source-view .task-list-item-checkbox {
-  margin-top: -2px; /* nudges checkbox closer to text */
 }
