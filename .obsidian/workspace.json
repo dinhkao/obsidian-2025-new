@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7545b2c5d5bef147",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +183,7 @@
   },
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
+    "Pasted image 20250825192123.png",
     "kakakka.md",
     "2025-08-25.md",
     "test.md",

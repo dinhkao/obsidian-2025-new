@@ -10,6 +10,7 @@ body{
   --font-ui-large: 20px;
   --line-height-normal:1.1;
   --line-height-tight:1;
+  --list-spacing:0;
   background-color: white; /* Set background color to white */
 }
 
