@@ -22,7 +22,7 @@ body {
 /* Make text align to the left border */
 .markdown-preview-view,
 .markdown-source-view {
-    margin: 0 !important;
+    margin: 10 !important;
     padding: 0 !important;
 }
 
@@ -58,3 +58,4 @@ input.prompt-input {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px !important;
 
 }
+
