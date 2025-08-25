@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kakakka.md",
+                "file": "2025-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kakakka"
+              "title": "2025-08-25"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
-    "test.md",
     "kakakka.md",
+    "2025-08-25.md",
+    "test.md",
     "conflict-files-obsidian-git.md",
     "README.md"
   ]
