@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of test"
             }
+          },
+          {
+            "id": "f82b8cdfc6df3025",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +181,8 @@
   },
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "test.md",
+    "conflict-files-obsidian-git.md",
     "README.md"
   ]
 }
