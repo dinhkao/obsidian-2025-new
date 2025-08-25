@@ -22,7 +22,7 @@ body {
 /* Make text align to the left border */
 .markdown-preview-view,
 .markdown-source-view {
-    margin: 10 !important;
+    margin: 0 !important;
     padding: 0 !important;
 }
 
@@ -33,8 +33,6 @@ body {
 .view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
   padding: 5px 0px 0px 5px;
 }
-
-
 
 .suggestion-item.is-selected {
   background-color: hsla(var(--interactive-accent-hsl), 0.8);
