@@ -15,10 +15,6 @@ body{
   background-color: white; /* Set background color to white */
 }
 
-h1, h2, h3, h4, h5, h6 {
-    border-bottom: 1px solid var(--text-muted); /* Adjust color and thickness as needed */
-    padding-bottom: 5px; /* Adjust spacing between heading and line */
-}
 
 /* Remove all margins and padding */
 body {
