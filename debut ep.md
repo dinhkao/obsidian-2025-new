@@ -14,6 +14,10 @@ erigjierjgierjg
 - [ ] and then oyu can ierjigjei
 - [ ] 
 ## 3 first dk
+jerjgierg
+erigjerg
+erigjerig
+ferijgir
 ## 4 best guitar
 (interlude)
 ## 5 next good 2
