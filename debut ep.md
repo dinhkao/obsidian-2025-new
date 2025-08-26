@@ -13,5 +13,7 @@
 ## 8 cai nhau
 ## 9 noise pop
 
+kakakakkaa
+
 ## things to do
 làm mixing loạn tùng ngầu giống mkgee
