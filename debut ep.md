@@ -1,7 +1,6 @@
 8 songs
 ## 1 intro
 (new good)
-hahahahahhahahahhahah
 ## 2 mew 1
 ## 3 first dk
 
@@ -14,5 +13,7 @@ hahahahahhahahahhahah
 ## 8 cai nhau
 ## 9 noise pop
 
----
+
+
+##
 làm mixing loạn tùng ngầu giống mkgee
