@@ -6,8 +6,8 @@
 ## 3 first dk
 ## 4 best guitar
 (interlude)
-## 5 guitar destroy
-## 6 next good 2
+## 5 next good 2
+## 6 guitar destroy
 ## 7 so weird
 (interlude)
 ## 8 cai nhau
