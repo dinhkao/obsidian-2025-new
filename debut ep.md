@@ -1,6 +1,4 @@
 8 songs
-
-# erkikerofg
 ## 1 intro
 (new good)
 ## 2 mew 1
