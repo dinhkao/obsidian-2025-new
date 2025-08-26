@@ -4,6 +4,15 @@
 ## 1 intro
 (new good)
 ## 2 mew 1
+rigjier
+gerigjierg
+eirjgierg
+erigjierjgierjg
+- [ ] ieigjiergerigjeirg
+- [ ] erigejrige
+- [ ] erijgierg
+- [ ] and then oyu can ierjigjei
+- [ ] 
 ## 3 first dk
 ## 4 best guitar
 (interlude)
