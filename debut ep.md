@@ -1,7 +1,14 @@
 8 songs
 
-## intro
-## mew 1
-## first dk
-## best guitar
-## guitar destroy
+## 1 intro
+(new good)
+## 2 mew 1
+## 3 first dk
+## 4 best guitar
+(interlude)
+## 5 guitar destroy
+## 6 next good 2
+## 7 so weird
+(interlude)
+## 8 cai nhau
+## 9 noise pop
