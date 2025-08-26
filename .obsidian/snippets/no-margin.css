@@ -15,7 +15,10 @@ body{
   background-color: white; /* Set background color to white */
 }
 
-
+.inline-title {
+    padding-bottom: 2px;
+    border-bottom: 1px solid lightgray;
+}
 /* Remove all margins and padding */
 body {
     margin: 0 !important;
