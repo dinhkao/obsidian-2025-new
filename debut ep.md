@@ -12,8 +12,17 @@
 (interlude)
 ## 8 cai nhau
 ## 9 noise pop
+erijgierg
+erijgierg
+erigjerig
+ergi
+
+| igjerigrie |     |
+| ---------- | --- |
+|            |     |
 
 
 
-##
+
+## things to do
 làm mixing loạn tùng ngầu giống mkgee
