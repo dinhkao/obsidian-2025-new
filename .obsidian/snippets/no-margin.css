@@ -11,6 +11,7 @@ body{
   --line-height-normal:1.1;
   --line-height-tight:1;
   --list-spacing:0;
+  --checkbox-margin-inline-start:0.3em;
   background-color: white; /* Set background color to white */
 }
 
