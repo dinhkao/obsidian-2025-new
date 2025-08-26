@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "debut ep.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "debut ep"
+              "title": "test"
             }
           }
         ]
@@ -150,23 +150,13 @@
               "icon": "lucide-list",
               "title": "Outline of test"
             }
-          },
-          {
-            "id": "f82b8cdfc6df3025",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +166,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
@@ -183,12 +174,11 @@
   "lastOpenFiles": [
     "project.md",
     "debut ep.md",
-    "kakakka.md",
     "all things digital.md",
-    "2025-08-25.md",
     "Pasted image 20250825192123.png",
+    "2025-08-25.md",
+    "kakakka.md",
     "test.md",
-    "conflict-files-obsidian-git.md",
     "README.md"
   ]
 }
