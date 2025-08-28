@@ -4,3 +4,7 @@ views:
     filters:
       and:
         - contains(property.tags, "recipe")
+    order:
+      - file.name
+  - type: table
+    name: View
