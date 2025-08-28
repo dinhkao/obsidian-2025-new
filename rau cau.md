@@ -2,4 +2,6 @@
 tags:
   - recipe
 ---
-b
+bột rau câu trộn với đường
+nước sôi tắt lửa đổ ra khuôn
+để nguội rồi bỏ vo
