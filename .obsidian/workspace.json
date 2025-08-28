@@ -11,13 +11,14 @@
             "id": "649ebbcdf9d36aa2",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "recipe.base",
-                "viewName": "Table"
+                "file": "miến nưa thịt chiên ko dầu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-list",
-              "title": "recipe"
+              "icon": "lucide-file",
+              "title": "miến nưa thịt chiên ko dầu"
             }
           }
         ]
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recipe.base",
+                "file": "miến nưa thịt chiên ko dầu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recipe"
+              "title": "Outline of miến nưa thịt chiên ko dầu"
             }
           },
           {
@@ -181,8 +182,9 @@
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
     "diet.md",
-    "rau cau.md",
+    "miến nưa thịt chiên ko dầu.md",
     "recipe.base",
+    "rau cau.md",
     "debut ep.md",
     "kakakka.md",
     "Pasted image 20250825192123.png",

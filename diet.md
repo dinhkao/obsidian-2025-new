@@ -4,4 +4,4 @@
 1 bịch miến nưa 35 calo
 
 # try
-- [ ] thịt luộc cắt miếng, bỏ nồi chiên ko dầu
+- [ ] thịt luộc cắt miếng, bỏ nồi chiên ko dầu [[miến nưa thịt chiên ko dầu]]
