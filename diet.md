@@ -5,3 +5,5 @@
 
 # try
 - [ ] thịt luộc cắt miếng, bỏ nồi chiên ko dầu [[miến nưa thịt chiên ko dầu]]
+- [ ] https://www.youtube.com/shorts/m7Aj3xvfgaE
+- [ ] 
