@@ -11,14 +11,13 @@
             "id": "649ebbcdf9d36aa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "diet.md",
-                "mode": "source",
-                "source": false
+                "file": "recipe.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "diet"
+              "icon": "lucide-layout-list",
+              "title": "recipe"
             }
           }
         ]
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diet.md",
+                "file": "recipe.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of diet"
+              "title": "Outline of recipe"
             }
           },
           {
@@ -181,8 +180,8 @@
   },
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
-    "rau cau.md",
     "diet.md",
+    "rau cau.md",
     "recipe.base",
     "debut ep.md",
     "kakakka.md",
