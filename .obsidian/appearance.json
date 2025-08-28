@@ -1,8 +1,6 @@
 {
-  "enabledCssSnippets": [
-    "no-margin"
-  ],
+  "enabledCssSnippets": [],
   "showRibbon": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "showViewHeader": false
 }
