@@ -3,4 +3,4 @@ views:
     name: Table
     filters:
       and:
-        - property.tags == "recipe"
+        - contains(property.tags, "recipe")
