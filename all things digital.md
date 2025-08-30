@@ -4,6 +4,9 @@ airtable
 gmail
 firebase
 dynalist
+coda
+notion
+
 
 
 # minimal

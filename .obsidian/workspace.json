@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kakakka.md",
+                "file": "all things digital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kakakka"
+              "title": "all things digital"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kakakka.md",
+                "file": "all things digital.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of kakakka"
+              "title": "Outline of all things digital"
             }
           },
           {
@@ -181,13 +181,13 @@
   },
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
+    "kakakka.md",
     "diet.md",
     "debut ep.md",
     "all things digital.md",
     "miến nưa thịt chiên ko dầu.md",
     "recipe.base",
     "rau cau.md",
-    "kakakka.md",
     "Pasted image 20250825192123.png",
     "test.md",
     "README.md",
