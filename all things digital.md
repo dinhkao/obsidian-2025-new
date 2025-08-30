@@ -13,4 +13,4 @@ wifi
 
 # vst
 scaler
-omni
+omnisphere
