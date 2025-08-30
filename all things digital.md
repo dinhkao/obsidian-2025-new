@@ -14,3 +14,8 @@ wifi
 # vst
 scaler
 omnisphere
+
+ezdrummer
+ez mix
+
+waves
