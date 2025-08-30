@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all things digital.md",
+                "file": "kakakka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "all things digital"
+              "title": "kakakka"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "all things digital.md",
+                "file": "kakakka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of all things digital"
+              "title": "Outline of kakakka"
             }
           },
           {
@@ -182,16 +182,16 @@
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
     "diet.md",
+    "debut ep.md",
+    "all things digital.md",
     "miến nưa thịt chiên ko dầu.md",
     "recipe.base",
     "rau cau.md",
-    "debut ep.md",
     "kakakka.md",
     "Pasted image 20250825192123.png",
     "test.md",
     "README.md",
     "project.md",
-    "all things digital.md",
     "2025-08-25.md",
     "conflict-files-obsidian-git.md"
   ]
