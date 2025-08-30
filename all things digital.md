@@ -4,3 +4,13 @@ airtable
 gmail
 firebase
 dynalist
+
+
+# minimal
+macbook
+
+wifi
+
+# vst
+scaler
+omni

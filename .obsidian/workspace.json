@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diet.md",
+                "file": "all things digital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diet"
+              "title": "all things digital"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diet.md",
+                "file": "all things digital.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of diet"
+              "title": "Outline of all things digital"
             }
           },
           {
@@ -181,8 +181,8 @@
   },
   "active": "649ebbcdf9d36aa2",
   "lastOpenFiles": [
-    "miến nưa thịt chiên ko dầu.md",
     "diet.md",
+    "miến nưa thịt chiên ko dầu.md",
     "recipe.base",
     "rau cau.md",
     "debut ep.md",
