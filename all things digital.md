@@ -18,7 +18,7 @@ omnisphere
 ezdrummer
 ez mix
 
-waves
+waves (always torrent new update)
 
 
 https://vk.com/newplug
