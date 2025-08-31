@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "all things digital"
             }
+          },
+          {
+            "id": "2dbbc7bb82180571",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-31 15.39.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "all things digital.md",
+                "file": "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of all things digital"
+              "title": "Outline of Drawing 2025-08-31 15.39.56.excalidraw"
             }
           },
           {
@@ -176,15 +189,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "649ebbcdf9d36aa2",
+  "active": "2dbbc7bb82180571",
   "lastOpenFiles": [
+    "all things digital.md",
+    "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
+    "Excalidraw",
     "kakakka.md",
     "diet.md",
     "debut ep.md",
-    "all things digital.md",
     "miến nưa thịt chiên ko dầu.md",
     "recipe.base",
     "rau cau.md",
