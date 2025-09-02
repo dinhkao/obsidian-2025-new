@@ -11,15 +11,28 @@
             "id": "5dd1a421cded1bfc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Pasted Image 20250902170526_180.webp"
+                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250902170526_180"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-02 17.05.19.excalidraw"
+            }
+          },
+          {
+            "id": "2e28464e38083626",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-02 17.05.19.excalidraw.restored"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20250902170526_180.webp",
+                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted Image 20250902170526_180"
+              "title": "Outline of Drawing 2025-09-02 17.05.19.excalidraw.restored"
             }
           },
           {
@@ -178,9 +191,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5dd1a421cded1bfc",
+  "active": "2e28464e38083626",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
     "Pasted Image 20250902170526_180.webp",
     "rau cau.md",
