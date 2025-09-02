@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cda98e28f5b4705a",
+        "id": "57a558aaf4c58781",
         "type": "tabs",
         "children": [
           {
-            "id": "649ebbcdf9d36aa2",
+            "id": "5dd1a421cded1bfc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-31 15.39.56.excalidraw"
+              "title": "Drawing 2025-09-02 17.05.19.excalidraw"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7545b2c5d5bef147",
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
+                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-31 15.39.56.excalidraw"
+              "title": "Outline of Drawing 2025-09-02 17.05.19.excalidraw"
             }
           },
           {
@@ -165,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +178,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "649ebbcdf9d36aa2",
+  "active": "5dd1a421cded1bfc",
   "lastOpenFiles": [
-    "rau cau.md",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
+    "Pasted Image 20250902170526_180.webp",
+    "rau cau.md",
     "Pasted image 20250825192123.webp",
     "Pasted Image 20250831154812_082.webp",
     "all things digital.md",
