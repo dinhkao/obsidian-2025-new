@@ -4,5 +4,5 @@
   ],
   "showRibbon": false,
   "theme": "moonstone",
-  "showViewHeader": true
+  "showViewHeader": false
 }
