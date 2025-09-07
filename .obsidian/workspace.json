@@ -23,17 +23,14 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -45,
-                  "y": 10,
-                  "zoom": 0
-                }
+                "file": "skinny research.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "skinny research"
             }
           }
         ],
@@ -198,9 +195,10 @@
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "skinny research.md",
     "rau cau.md",
     "Pasted Image 20250831154812_082.webp",
-    "Untitled.canvas",
     "Pasted image 20250907220220.webp",
     "miến nưa thịt chiên ko dầu.md",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
