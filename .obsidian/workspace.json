@@ -23,12 +23,17 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -45,
+                  "y": 10,
+                  "zoom": 0
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-02 17.05.19.excalidraw.restored"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -193,24 +198,26 @@
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
-    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
-    "Pasted Image 20250902170526_180.webp",
     "rau cau.md",
-    "Pasted image 20250825192123.webp",
     "Pasted Image 20250831154812_082.webp",
+    "Untitled.canvas",
+    "Pasted image 20250907220220.webp",
+    "miến nưa thịt chiên ko dầu.md",
+    "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
+    "2025-08-25.md",
+    "Pasted Image 20250902170526_180.webp",
+    "Pasted image 20250825192123.webp",
     "all things digital.md",
     "test.md",
     "Excalidraw",
     "kakakka.md",
     "diet.md",
     "debut ep.md",
-    "miến nưa thịt chiên ko dầu.md",
     "recipe.base",
     "README.md",
     "project.md",
-    "2025-08-25.md",
     "conflict-files-obsidian-git.md"
   ]
 }
