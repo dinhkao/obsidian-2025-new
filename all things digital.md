@@ -6,6 +6,7 @@ firebase
 dynalist
 coda
 notion
+kaka
 
 
 
