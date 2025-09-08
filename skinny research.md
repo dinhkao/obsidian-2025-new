@@ -10,3 +10,5 @@ https://hasaki.vn/san-pham/sua-duong-the-vaseline-diu-mat-sang-da-350ml-88621.ht
 https://hasaki.vn/san-pham/serum-drceutics-12-niacinamide-sang-da-mo-tham-kiem-dau-30g-127488.html
 
 https://hasaki.vn/san-pham/mini-nuoc-hoa-hong-klairs-khong-mui-cho-da-nhay-cam-20ml-198055.html
+
+https://hasaki.vn/san-pham/kem-chong-nang-beplain-nang-tong-kiem-dau-min-li-50ml-125900.html
