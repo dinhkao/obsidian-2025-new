@@ -3,10 +3,11 @@ bitwarden
 airtable
 gmail
 firebase
-dynalist
+dynalist --> not use anymore
 coda
 notion
-kaka
+
+
 
 
 
