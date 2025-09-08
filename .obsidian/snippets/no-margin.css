@@ -8,7 +8,7 @@ body{
   --font-ui-small: 12px;
   --font-ui-medium: 14px;
   --font-ui-large: 20px;
-  --line-height-normal:1;
+  --line-height-normal:1.1;
   --line-height-tight:1;
   --list-spacing:0;
   --checkbox-margin-inline-start:0.3em;
