@@ -120,6 +120,10 @@ input.metadata-property-key-input {
   margin-bottom: 0;
 }
 
+.metadata-container .metadata-show-source-button, .metadata-container .metadata-add-button {
+  margin-top: 0;
+}
+
 .inline-title:not([data-level]) {
   margin-bottom: 0;
 }
