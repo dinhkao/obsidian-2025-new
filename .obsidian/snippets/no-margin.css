@@ -28,7 +28,7 @@ body{
 }
 
 .suggestion-item {
-    padding: 0;
+    padding: 0.4px;
 }
 
 .HyperMD-header-1::after, h1,
