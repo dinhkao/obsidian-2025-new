@@ -8,8 +8,7 @@ coda
 notion
 
 
-
-
+[[2025-09-09]]
 
 # minimal
 macbook

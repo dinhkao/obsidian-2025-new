@@ -45,7 +45,19 @@ input.prompt-input {
   padding: 0;
 }
 
+.clickable-icon {
+  padding: 0;
+}
+
+.backlink-pane > .tree-item-self.is-clickable.is-collapsed, .outgoing-link-pane > .tree-item-self.is-clickable.is-collapsed {
+  padding: 0;
+}
+
 .backlink-pane .search-result-container, .outgoing-link-pane .search-result-container {
+  padding: 0;
+}
+
+.embedded-backlinks .nav-header {
   padding: 0;
 }
 
