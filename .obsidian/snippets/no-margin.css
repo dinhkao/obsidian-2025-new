@@ -77,6 +77,14 @@ input.prompt-input {
   padding: 0;
 }
 
+.setting-item {
+  padding: 0;
+}
+
+.vertical-tab-content {
+  padding: 5px;
+}
+
 .HyperMD-header-1::after, h1,
 .HyperMD-header-2::after, h2,
 .HyperMD-header-3::after, h3 {
