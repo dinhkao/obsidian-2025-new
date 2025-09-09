@@ -112,6 +112,10 @@ input.metadata-property-key-input {
 
 }
 
+.metadata-properties-title {
+  display: none;
+}
+
 .metadata-property-key {
 }
 
