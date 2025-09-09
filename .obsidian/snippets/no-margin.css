@@ -108,6 +108,8 @@ input.metadata-property-key-input {
 
 .metadata-container {
   padding: 0;
+  --input-height:15px;
+
 }
 
 .HyperMD-header-1::after, h1,
