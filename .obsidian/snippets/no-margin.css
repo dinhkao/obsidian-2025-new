@@ -36,7 +36,7 @@ input.prompt-input {
 
 .suggestion-item.is-selected {
     background-color: hsla(var(--interactive-accent-hsl), 0.8);
-    border-radius: 2px;
+    border-radius: 2px !important;
 }
 
 .HyperMD-header-1::after, h1,
