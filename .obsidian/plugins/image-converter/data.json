@@ -11,9 +11,13 @@
     {
       "type": "CURRENT",
       "name": "Same folder as current note"
+    },
+    {
+      "name": "test",
+      "type": "SUBFOLDER"
     }
   ],
-  "selectedFolderPreset": "Default (Obsidian setting)",
+  "selectedFolderPreset": "test",
   "filenamePresets": [
     {
       "name": "Keep original name",
@@ -46,7 +50,7 @@
     "folder": false,
     "filename": false
   },
-  "subfolderTemplate": "",
+  "subfolderTemplate": "krmgkmekrg",
   "conversionPresets": [
     {
       "name": "None",
@@ -221,7 +225,7 @@
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
-  "ProcessAllVaultconvertTo": "jpg",
+  "ProcessAllVaultconvertTo": "webp",
   "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
   "ProcessAllVaultResizeModaldesiredWidth": 500,

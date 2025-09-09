@@ -23,12 +23,14 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250907220220.jpg"
+                "file": "project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250907220220"
+              "icon": "lucide-file",
+              "title": "project"
             }
           }
         ],
@@ -192,20 +194,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9f1939408067474d",
+  "active": "2e28464e38083626",
   "lastOpenFiles": [
-    "Pasted Image 20250831154812_082.jpg",
-    "Pasted Image 20250902170526_180.jpg",
-    "Pasted image 20250907220220.jpg",
-    "project.md",
-    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
-    "Pasted Image 20250909120640_917.jpg",
+    "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
+    "Pasted image 20250907220220.webp",
+    "Pasted Image 20250831154812_082.webp",
+    "Pasted Image 20250902170526_180.webp",
+    "project.md",
+    "Pasted Image 20250909120640_917.webp",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
-    "Pasted Image 20250909115853_007.jpg",
-    "Pasted Image 20250909120335_702.jpg",
+    "Pasted Image 20250909115853_007.webp",
+    "Pasted Image 20250909120335_702.webp",
     "Pasted Image 20250909120242_189",
-    "Pasted Image 20250909120242_189.jpg",
+    "Pasted Image 20250909120242_189.webp",
     "kakakka.md",
     "secret.md",
     "all things digital.md",
@@ -214,7 +216,7 @@
     "rau cau.md",
     "miến nưa thịt chiên ko dầu.md",
     "2025-08-25.md",
-    "Pasted image 20250825192123.jpg",
+    "Pasted image 20250825192123.webp",
     "test.md",
     "Excalidraw",
     "diet.md",
