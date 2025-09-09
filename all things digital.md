@@ -8,7 +8,7 @@ coda
 notion
 
 
-nguyễn đình duy th
+
 
 
 # minimal

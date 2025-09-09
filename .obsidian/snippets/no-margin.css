@@ -37,6 +37,7 @@ input.prompt-input {
 .prompt-instructions {
   padding: 0px;
   gap: 0;
+  display: none;
 }
 
 .metadata-properties {
