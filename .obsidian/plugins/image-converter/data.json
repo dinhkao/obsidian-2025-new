@@ -28,7 +28,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "NoteName-Timestamp",
+  "selectedFilenamePreset": "Keep original name",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -221,7 +221,7 @@
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
-  "ProcessAllVaultconvertTo": "jpg",
+  "ProcessAllVaultconvertTo": "webp",
   "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
   "ProcessAllVaultResizeModaldesiredWidth": 500,
