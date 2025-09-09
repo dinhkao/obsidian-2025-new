@@ -221,7 +221,7 @@
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
-  "ProcessAllVaultconvertTo": "webp",
+  "ProcessAllVaultconvertTo": "jpg",
   "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
   "ProcessAllVaultResizeModaldesiredWidth": 500,

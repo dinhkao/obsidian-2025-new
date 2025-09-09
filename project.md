@@ -1,2 +1,2 @@
 [[debut ep]]
-![[Pasted Image 20250831154812_082.webp]]
+![[Pasted Image 20250831154812_082\.jpg]]
