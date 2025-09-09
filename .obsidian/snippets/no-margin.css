@@ -55,6 +55,10 @@ input.prompt-input {
 .community-item-desc, .community-modal-info-desc, .community-modal-search-summary, .inline-title, .metadata-property-key-input, .metadata-input-longtext, .multi-select-pill-content, .nav-file-title-content, .nav-folder-title-content, .search-result-file-match, .setting-item-description, .setting-item-name, .suggestion-title, .bases-table-header-name, .table-cell-wrapper, .titlebar-text, .tooltip, .tree-item-inner, .view-header-breadcrumb, .view-header-title, .workspace-tab-header-inner-title, input {
   padding: 0;
 }
+
+input.metadata-property-key-input {
+  padding: 0;
+}
 .suggestion-item {
     padding: 0.4px;
 }
