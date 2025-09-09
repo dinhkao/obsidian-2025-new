@@ -23,13 +23,14 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "recipe.base",
-                "viewName": "Table"
+                "file": "project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-list",
-              "title": "recipe"
+              "icon": "lucide-file",
+              "title": "project"
             }
           }
         ],
@@ -195,32 +196,32 @@
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
+    "kakakka.md",
+    "miến nưa thịt chiên ko dầu.md",
+    "Pasted image 20250825192123.png",
+    "recipe.base",
     "Pasted Image 20250909120335_702.png",
     "Pasted Image 20250909120640_917.png",
     "Pasted Image 20250909120242_189.png",
     "Pasted Image 20250909115853_007.png",
     "project.md",
-    "Pasted image 20250825192123.png",
-    "Pasted Image 20250831154812_082.png",
+    "Pasted Image 20250831154812_082.webp",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
     "Pasted image 20250907220220.png",
     "Pasted Image 20250902170526_180.png",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
     "Pasted Image 20250909120242_189",
-    "kakakka.md",
     "secret.md",
     "all things digital.md",
     "skinny research.md",
     "Untitled.canvas",
     "rau cau.md",
-    "miến nưa thịt chiên ko dầu.md",
     "2025-08-25.md",
     "test.md",
     "Excalidraw",
     "diet.md",
     "debut ep.md",
-    "recipe.base",
     "README.md",
     "conflict-files-obsidian-git.md"
   ]
