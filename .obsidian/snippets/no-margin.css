@@ -36,6 +36,7 @@ input.prompt-input {
 
 .prompt-instructions {
   padding: 0px;
+  gap: 0;
 }
 
 .suggestion-item {
