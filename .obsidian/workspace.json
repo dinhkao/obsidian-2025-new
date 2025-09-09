@@ -23,12 +23,14 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/what is this.md"
+                "file": "all things digital.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "what is this"
+              "icon": "lucide-file",
+              "title": "all things digital"
             }
           }
         ],
@@ -89,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7545b2c5d5bef147",
@@ -177,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +198,11 @@
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
+    "2025-08-25.md",
+    "Excalidraw/what is this.md",
     "all things digital.md",
     "debut ep.md",
     "diet.md",
-    "Excalidraw/what is this.md",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
     "Pasted Image 20250909121626_703.webp",
@@ -218,7 +223,6 @@
     "skinny research.md",
     "Untitled.canvas",
     "rau cau.md",
-    "2025-08-25.md",
     "test.md",
     "Excalidraw",
     "README.md",
