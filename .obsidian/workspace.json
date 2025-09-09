@@ -23,11 +23,13 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "Drawing 2025-09-02 17.05.19.excalidraw"
             }
           }
@@ -194,6 +196,8 @@
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
+    "Pasted Image 20250909120242_189",
+    "Pasted Image 20250909120242_189.webp",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
     "Pasted Image 20250902170526_180.webp",
