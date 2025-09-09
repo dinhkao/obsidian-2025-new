@@ -24,6 +24,9 @@ input.prompt-input {
     border-bottom: 1px solid lightgray;
 }
 
+.prompt {
+  border-radius: 2px !important;
+}
 .prompt-results {
     list-style: none;
     margin: 0;
