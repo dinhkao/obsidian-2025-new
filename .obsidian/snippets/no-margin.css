@@ -45,6 +45,10 @@ input.prompt-input {
   padding: 0;
 }
 
+.backlink-pane .search-result-container, .outgoing-link-pane .search-result-container {
+  padding: 0;
+}
+
 .metadata-property input[type='text'], .metadata-property input[type='date'], .metadata-property input[type='datetime-local'], .metadata-property input[type='number'], .metadata-property .multi-select-container {
   padding: 0;
 }
