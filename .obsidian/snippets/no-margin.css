@@ -47,6 +47,14 @@ input.prompt-input {
     border-radius: 2px !important;
 }
 
+.nav-file-title {
+  padding: 1px;
+}
+
+.nav-header {
+    padding: 1px;
+}
+
 .HyperMD-header-1::after, h1,
 .HyperMD-header-2::after, h2,
 .HyperMD-header-3::after, h3 {
