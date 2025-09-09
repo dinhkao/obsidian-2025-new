@@ -43,6 +43,18 @@ input.prompt-input {
   gap: 0;
   padding: 0;
 }
+
+.metadata-property input[type='text'], .metadata-property input[type='date'], .metadata-property input[type='datetime-local'], .metadata-property input[type='number'], .metadata-property .multi-select-container {
+  padding: 0;
+}
+
+.metadata-property input[type='text'], .metadata-property input[type='date'], .metadata-property input[type='datetime-local'], .metadata-property input[type='number'], .metadata-property .multi-select-container {
+  padding: 0;
+}
+
+.community-item-desc, .community-modal-info-desc, .community-modal-search-summary, .inline-title, .metadata-property-key-input, .metadata-input-longtext, .multi-select-pill-content, .nav-file-title-content, .nav-folder-title-content, .search-result-file-match, .setting-item-description, .setting-item-name, .suggestion-title, .bases-table-header-name, .table-cell-wrapper, .titlebar-text, .tooltip, .tree-item-inner, .view-header-breadcrumb, .view-header-title, .workspace-tab-header-inner-title, input {
+  padding: 0;
+}
 .suggestion-item {
     padding: 0.4px;
 }
