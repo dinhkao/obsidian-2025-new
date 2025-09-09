@@ -23,12 +23,14 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Image 20250909121626_703.webp"
+                "file": "miến nưa thịt chiên ko dầu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250909121626_703"
+              "icon": "lucide-file",
+              "title": "miến nưa thịt chiên ko dầu"
             }
           }
         ],
@@ -178,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +196,9 @@
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
+    "Pasted Image 20250909121626_703.webp",
     "all things digital.md",
     "feifeir/Pasted Image 20250909115853_007.jpg",
-    "Pasted Image 20250909121626_703.webp",
     "Pasted Image 20250831154812_082.jpg",
     "Pasted image 20250825192123.jpg",
     "Pasted Image 20250909120335_702.jpg",

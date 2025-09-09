@@ -73,6 +73,10 @@ input.prompt-input {
   padding: 0;
 }
 
+.horizontal-tab-nav-item, .vertical-tab-nav-item {
+  padding: 0;
+}
+
 .HyperMD-header-1::after, h1,
 .HyperMD-header-2::after, h2,
 .HyperMD-header-3::after, h3 {
