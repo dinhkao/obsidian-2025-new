@@ -17,6 +17,7 @@ body{
 
 input.prompt-input {
   height: 2px !important;
+  padding: 10px !important;
 }
 .inline-title {
     padding-bottom: 2px;
@@ -28,6 +29,10 @@ input.prompt-input {
     margin: 0;
     padding: 0;
     overflow-y: auto;
+}
+
+.prompt-instructions {
+  padding: 1px;
 }
 
 .suggestion-item {
