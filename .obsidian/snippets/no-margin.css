@@ -112,6 +112,10 @@ input.metadata-property-key-input {
 
 }
 
+.metadata-property-key {
+  
+}
+
 .HyperMD-header-1::after, h1,
 .HyperMD-header-2::after, h2,
 .HyperMD-header-3::after, h3 {
