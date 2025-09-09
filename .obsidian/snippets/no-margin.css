@@ -50,13 +50,17 @@ input.prompt-input {
 .tree-item-self.mod-collapsible {
   /*padding: 10px;*/
 }
+.workspace-tab-header-container {
+  padding: 0px;
+}
 
 .nav-file-title {
   padding: 1px;
 }
 
 .nav-header {
-    padding: 1px;
+    padding: 0px;
+    height: ;
 }
 
 .nav-files-container {
