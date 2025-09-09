@@ -23,14 +23,12 @@
             "id": "2e28464e38083626",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "project.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250907220220.jpg"
               },
-              "icon": "lucide-file",
-              "title": "project"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250907220220"
             }
           }
         ],
@@ -194,9 +192,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2e28464e38083626",
+  "active": "9f1939408067474d",
   "lastOpenFiles": [
+    "Pasted Image 20250831154812_082.jpg",
     "Pasted Image 20250902170526_180.jpg",
+    "Pasted image 20250907220220.jpg",
+    "project.md",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.md",
     "Pasted Image 20250909120640_917.jpg",
@@ -206,13 +207,11 @@
     "Pasted Image 20250909120242_189",
     "Pasted Image 20250909120242_189.jpg",
     "kakakka.md",
-    "Pasted Image 20250831154812_082.jpg",
     "secret.md",
     "all things digital.md",
     "skinny research.md",
     "Untitled.canvas",
     "rau cau.md",
-    "Pasted image 20250907220220.jpg",
     "miến nưa thịt chiên ko dầu.md",
     "2025-08-25.md",
     "Pasted image 20250825192123.jpg",
@@ -222,7 +221,6 @@
     "debut ep.md",
     "recipe.base",
     "README.md",
-    "project.md",
     "conflict-files-obsidian-git.md"
   ]
 }

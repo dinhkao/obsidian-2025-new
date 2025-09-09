@@ -103,7 +103,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "WEBP (75, no resizing)",
+  "selectedConversionPreset": "None",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -114,7 +114,7 @@
       "resizePreset": "Default (No Resize)"
     }
   ],
-  "selectedGlobalPreset": "WebP 75",
+  "selectedGlobalPreset": "",
   "linkFormatSettings": {
     "linkFormatPresets": [
       {
