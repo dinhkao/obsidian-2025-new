@@ -116,6 +116,13 @@ input.metadata-property-key-input {
   display: none;
 }
 
+.markdown-source-view.is-live-preview.show-properties .metadata-container:not(.mod-error) {
+  margin-bottom: 0;
+}
+
+.inline-title:not([data-level]) {
+  margin-bottom: 0;
+}
 .metadata-property-key {
 }
 
