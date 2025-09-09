@@ -192,15 +192,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "terminal:Open terminal": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
     "2025-08-25.md",
-    "Excalidraw/what is this.md",
     "all things digital.md",
+    "Excalidraw/what is this.md",
     "debut ep.md",
     "diet.md",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
