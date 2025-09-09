@@ -16,7 +16,7 @@ body{
 }
 
 input.prompt-input {
-  height: 2px;
+  height: 2px !important;
 }
 .inline-title {
     padding-bottom: 2px;
