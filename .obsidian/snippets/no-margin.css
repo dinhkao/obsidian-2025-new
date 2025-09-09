@@ -55,6 +55,11 @@ input.prompt-input {
   height: 0;
 }
 
+.tree-item-self.mod-collapsible {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
 
 .nav-file-title {
   padding: 1px;

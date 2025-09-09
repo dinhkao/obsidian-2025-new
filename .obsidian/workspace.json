@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7545b2c5d5bef147",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +195,9 @@
   },
   "active": "2e28464e38083626",
   "lastOpenFiles": [
+    "all things digital.md",
+    "feifeir/Pasted Image 20250909115853_007.jpg",
+    "Pasted Image 20250909121626_703.webp",
     "Pasted Image 20250831154812_082.jpg",
     "Pasted image 20250825192123.jpg",
     "Pasted Image 20250909120335_702.jpg",
@@ -201,18 +206,15 @@
     "feifeir/Pasted Image 20250902170526_180.jpg",
     "Excalidraw/what is this.md",
     "kakakka.md",
-    "all things digital.md",
     "2025-08-25.md",
     "debut ep.md",
     "diet.md",
     "Excalidraw/Drawing 2025-08-31 15.39.56.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 17.05.19.excalidraw.restored.md",
-    "Pasted Image 20250909121626_703.webp",
     "project.md",
     "miến nưa thịt chiên ko dầu.md",
     "recipe.base",
     "Pasted Image 20250909120640_917.jpg",
-    "feifeir/Pasted Image 20250909115853_007.jpg",
     "feifeir/Pasted image 20250907220220.jpg",
     "Pasted Image 20250909120242_189",
     "secret.md",
