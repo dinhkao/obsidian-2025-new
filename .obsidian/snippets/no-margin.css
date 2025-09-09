@@ -27,6 +27,11 @@ body{
     overflow-y: auto;
 }
 
+.suggestion-item.is-selected {
+    background-color: hsla(var(--interactive-accent-hsl), 0.8);
+    border-radius: 0px;
+}
+
 .suggestion-item {
     padding: 0.4px;
 }
