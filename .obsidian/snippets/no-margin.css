@@ -59,7 +59,9 @@ input.prompt-input {
   margin: 0;
 }
 
-
+.embedded-backlinks .nav-buttons-container {
+  display: none;
+}
 
 .backlink-pane > .tree-item-self.is-clickable.is-collapsed, .outgoing-link-pane > .tree-item-self.is-clickable.is-collapsed {
   padding: 0;
