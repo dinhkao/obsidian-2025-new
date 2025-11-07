@@ -59,9 +59,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "4916245ca9f73fa3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-07 12.23.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-07 12.23.52.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,10 +232,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d16e4b47f3617618",
+  "active": "4916245ca9f73fa3",
   "lastOpenFiles": [
-    "what.excalidraw",
     "Untitled.canvas",
+    "Excalidraw/Drawing 2025-11-07 12.23.52.excalidraw.md",
+    "what.excalidraw",
     "2025-09-09.md",
     "2025-09-10.md",
     "kiem khach.md",
