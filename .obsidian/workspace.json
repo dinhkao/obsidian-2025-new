@@ -47,14 +47,17 @@
             "id": "d16e4b47f3617618",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "kiem khach.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -215,
+                  "y": -198,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "kiem khach"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -115,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7545b2c5d5bef147",
@@ -204,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,16 +222,18 @@
   },
   "active": "d16e4b47f3617618",
   "lastOpenFiles": [
-    "best guitar 2.md",
-    "kiem khach.md",
-    "2025-09-11.md",
-    "2025-09-10.md",
+    "what.excalidraw",
+    "Untitled.canvas",
     "2025-09-09.md",
+    "2025-09-10.md",
+    "kiem khach.md",
+    "miến nưa thịt chiên ko dầu.md",
+    "Pasted Image 20250909121626_703.webp",
+    "best guitar 2.md",
+    "2025-09-11.md",
     "all things digital.md",
     "feifeir/Pasted Image 20250909115853_007.jpg",
-    "miến nưa thịt chiên ko dầu.md",
     "Excalidraw/what is this.md",
-    "Pasted Image 20250909121626_703.webp",
     "Pasted Image 20250831154812_082.jpg",
     "Pasted image 20250825192123.jpg",
     "Pasted Image 20250909120335_702.jpg",
@@ -250,7 +253,6 @@
     "Pasted Image 20250909120242_189",
     "secret.md",
     "skinny research.md",
-    "Untitled.canvas",
     "rau cau.md",
     "test.md",
     "Excalidraw",
